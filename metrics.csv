@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+Logistic Regression,0.802697,0.557143,0.265306,0.359447,0.798161
+Neural Network (MLP),0.799148,0.582090,0.132653,0.216066,0.767524
+Random Forest,0.793471,0.511811,0.221088,0.308789,0.761359

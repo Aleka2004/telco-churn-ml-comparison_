@@ -1,0 +1,1 @@
+Independent Study 2: Telco churn prediction. Data preparation -> stratified split -> Logistic Regression / Random Forest / Neural Network (MLP) -> evaluation and comparison. Based on a user-provided Kaggle notebook; original author and license require verification.
